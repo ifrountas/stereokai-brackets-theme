@@ -1,0 +1,15 @@
+{
+    "name": "stereokai-theme",
+    "title": "Stereokai Theme",
+    "description": "This theme is so shiny that you'll need to wear shades!",
+    "homepage": "https://github.com/yourname/my-shiny-theme",
+    "version": "1.0.0",
+    "author": "Iakovos Frountas mail@frountas.com https://frountas.com",
+    "license": "MIT",
+    "theme": {
+        "file": "stereokai.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
