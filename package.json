@@ -1,15 +1,18 @@
 {
     "name": "stereokai-theme",
     "title": "Stereokai Theme",
-    "description": "This theme is so shiny that you'll need to wear shades!",
-    "homepage": "https://github.com/yourname/my-shiny-theme",
-    "version": "1.0.0",
-    "author": "Iakovos Frountas mail@frountas.com https://frountas.com",
+    "description": "Stereokai Theme based on classic lovely theme that we used in Sublime Text",
+    "homepage": "https://github.com/ifrountas/stereokai-brackets-theme",
+    "version": "1.0.2",
+    "author": {
+        "name": "Iakovos Frountas",
+        "url": "https://github.com/ifrountas"
+    },
     "license": "MIT",
     "theme": {
         "file": "stereokai.less",
         "dark": true,
         "addModeClass": true
     },
-    "keywords": ["theme"]
+    "keywords": ["stereokai theme"]
 }
